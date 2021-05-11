@@ -52,9 +52,9 @@ Package | Version |
 [axios](https://github.com/axios/axios) | 0.21.1 |
 [lodash](https://github.com/lodash/lodash) | 4.17.21 |
 [moment](https://github.com/moment/moment) | 2.29.1 |
-[redux](https://github.com/reduxjs/redux) | 2.29.1 |
-[react-redux](https://github.com/reduxjs/react-redux) | 2.29.1 |
-[redux-saga](https://github.com/redux-saga/redux-saga) | 2.29.1 |
+[redux](https://github.com/reduxjs/redux) | 4.1.0 |
+[react-redux](https://github.com/reduxjs/react-redux) | 7.2.4 |
+[redux-saga](https://github.com/redux-saga/redux-saga) | 1.1.3 |
 
 
 ## Contributing
