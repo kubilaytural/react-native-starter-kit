@@ -2,7 +2,6 @@
 
 React Native starter kit is a quick starter kit containing ready-made modules
 
-![LandingImage](starterLanding.png)
 ## Getting Started
 
 #### 1. Clone or Download Project
