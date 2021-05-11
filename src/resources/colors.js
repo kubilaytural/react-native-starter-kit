@@ -1,0 +1,16 @@
+export default {
+  primary: '#FFF',
+  white: '#FFF',
+  secondary: '#abd7eb',
+  backgroundColor: '#ffffff',
+  brokenWhite: '#f2f2f2',
+  third: '#cccccc',
+  gray: '#9A9A9A',
+  black: '#000000',
+  defaultTextColor: '#000000',
+  red: '#ff0000',
+  textInputText: '#000000',
+  borderColor: '#E0E0E0',
+  descriptionColor: '#2C2C2C',
+  descriptionColor40: 'rgba(44, 44, 44, 0.4)',
+};
